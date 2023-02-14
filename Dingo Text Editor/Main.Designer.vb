@@ -113,13 +113,13 @@ Partial Class Main
         '
         Me.toUndo.Name = "toUndo"
         Me.toUndo.Size = New System.Drawing.Size(152, 22)
-        Me.toUndo.Text = "Undu"
+        Me.toUndo.Text = "Undo"
         '
         'toRedo
         '
         Me.toRedo.Name = "toRedo"
         Me.toRedo.Size = New System.Drawing.Size(152, 22)
-        Me.toRedo.Text = "Redo"
+        Me.toRedo.Text = "Redu"
         '
         'ToolStripSeparator2
         '
